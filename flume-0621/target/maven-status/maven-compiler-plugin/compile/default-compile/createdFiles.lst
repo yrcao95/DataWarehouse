@@ -1,0 +1,5 @@
+com/atguigu/gmall/flume/interceptor/TimeStampInterceptor.class
+com/atguigu/gmall/flume/interceptor/LogInterceptor.class
+com/atguigu/gmall/flume/interceptor/LogInterceptor$Builder.class
+com/atguigu/gmall/flume/interceptor/TimeStampInterceptor$Builder.class
+com/atguigu/gmall/flume/interceptor/JSONUtil.class
